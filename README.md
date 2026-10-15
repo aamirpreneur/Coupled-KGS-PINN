@@ -4,7 +4,7 @@ Code, trained checkpoints, and figure scripts for the paper:
 
 > **Physics-Informed Neural Networks for the Coupled Klein–Gordon–Schrödinger
 > System: A Systematic Training Methodology**
-> A. Shehzad and S. Haq (submitted to *Nonlinear Dynamics*).
+> A. Shehzad and S. Haq (submitted for publication).
 
 This repository accompanies the manuscript and supports its *Data Availability*
 statement. It contains the training scripts, the trained network checkpoints,
